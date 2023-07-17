@@ -6,6 +6,6 @@
 </head>
 <body>
     
-    <h1> Hello Nicole <br> May Kamusta Kana? </h1>
+    <h1> Hello <br> May jowa Kana? </h1>
 </body>
 </html>
